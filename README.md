@@ -2,6 +2,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vhirtham&theme=onedark&row=1&column=7)](https://github.com/vhirtham/github-profile-trophy)
 
+[![stats](https://github-readme-stats.vercel.app/api?username=vhirtham)](https://github.com/vhirtham?tab=repositories&q=&type=source&language=)
+
+[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vhirtham&langs_count=20)](https://github.com/vhirtham?tab=repositories)
+
 <!--
 **vhirtham/vhirtham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
